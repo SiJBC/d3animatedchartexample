@@ -10,4 +10,4 @@ The exit method for when data is removed from the page.
 
 
 Inline-style: 
-![alt text](/Screen Shot 2021-02-04 at 10.43.24 pm.png "Example of chart")
+![alt text](https://github.com/SiJBC/d3animatedchartexample/blob/master/Screen%20Shot%202021-02-04%20at%2010.43.24%20pm.png "Example of chart")
