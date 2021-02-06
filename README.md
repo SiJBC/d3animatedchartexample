@@ -10,6 +10,8 @@ The update method when data is updated
 
 The exit method for when data is removed from the page. 
 
+See the deployed version at https://sijbc.github.io/d3animatedchartexample/
+
 
 Example of Chart
 ![alt text](https://github.com/SiJBC/d3animatedchartexample/blob/master/Screen%20Shot%202021-02-04%20at%2010.43.24%20pm.png "Example of chart")
